@@ -23,11 +23,15 @@
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/odoo.png?raw=true"></code>
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/react.png?raw=true"></code>
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/springboot.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/php.png?raw=true"></code>
+<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/laravel.png?raw=true"></code>
 
 ### Tools 🪄:
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/vercel.png?raw=true"></code>
 
+## Digital Skills 🎥:
+<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/Adobe_Photoshop_CC_icon.svg.png?raw=true"></code>
+<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/premiere.png?raw=true"></code>
+<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/OBS_Studio_logo.png?raw=true"></code>
 <!--
 **davidcarmonaarrabal/davidcarmonaarrabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
