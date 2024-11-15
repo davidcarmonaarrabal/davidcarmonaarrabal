@@ -19,7 +19,7 @@
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/python.png?raw=true"></code>
 
 ### Frameworks 🏗️:
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/next.png?raw=true"></code>
+<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/ce0039232cf4ebc85f31c0436447602f3f9c490e/img/next2.png?raw=true"></code>
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/odoo.png?raw=true"></code>
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/react.png?raw=true"></code>
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/springboot.png?raw=true"></code>
