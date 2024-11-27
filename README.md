@@ -8,6 +8,7 @@
 ## My projects: 💻
 
 ## Currently working on: 🔭
+<code><a href="https://github.com/davidcarmonaarrabal/TCGCatch.git"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/0c1b7250ef2046469de6a6943114ab86fc1a52c1/img/logo.png?raw=true"></a></code>
 
 ## Currently learning... 🌱
 ### Languages 🧑‍💻:
