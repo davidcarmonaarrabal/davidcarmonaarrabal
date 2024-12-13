@@ -1,7 +1,7 @@
 ## Hey, I'm David 👋
 🌍Currently living in Córdoba, Spain.
 
-📖Studying web develpment and trying to improve myself everyday.
+📖Studying web development and trying to improve myself everyday.
 
 📧Contact me: [contactodavidcarmonaarr@gmail.com](mailto:contactodavidcarmonaarr@gmail.com)
 
