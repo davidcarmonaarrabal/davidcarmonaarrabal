@@ -10,6 +10,7 @@
 
 ## Currently working on: 🔭
 <code><a href="https://github.com/davidcarmonaarrabal/TCGCatch.git"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/0c1b7250ef2046469de6a6943114ab86fc1a52c1/img/logo.png?raw=true"></a></code>
+<code><a href="https://github.com/davidcarmonaarrabal/KBFSilversoul"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5a984cda08d01f6f5853f36c2e63ff091fdef182/img/Proyecto%20nuevo%20(1).png?raw=true"></a></code>
 
 ## Currently learning... 🌱
 ### Languages 🧑‍💻:
