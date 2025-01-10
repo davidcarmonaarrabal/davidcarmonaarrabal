@@ -31,6 +31,10 @@
 
 ### Tools 🪄:
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/vercel.png?raw=true"></code>
+<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/sendgrid.png?raw=true"></code>
+<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/hostinger.png?raw=true"></code>
+<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/gcloud.png?raw=true"></code>
+<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/firebase.png?raw=true"></code>
 
 ## Digital Skills 🎥:
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/Adobe_Photoshop_CC_icon.svg.png?raw=true"></code>
