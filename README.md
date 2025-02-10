@@ -23,11 +23,11 @@
 <code><a href="https://www.postgresql.org/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/68d6ffe3381e11afe3bcd5be0a3aaadef5b2268a/img/pg.png?raw=true"><a/></code>
 
 ### Frameworks 🏗️:
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/ce0039232cf4ebc85f31c0436447602f3f9c490e/img/next2.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/odoo.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/react.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/springboot.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/laravel.png?raw=true"></code>
+<code><a href="https://nextjs.org/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/ce0039232cf4ebc85f31c0436447602f3f9c490e/img/next2.png?raw=true"><a/></code>
+<code><a href="https://www.odoo.sh/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/odoo.png?raw=true"><a/></code>
+<code><a href="https://es.react.dev/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/react.png?raw=true"><a/></code>
+<code><a href="https://spring.io/projects/spring-boot"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/springboot.png?raw=true"><a/></code>
+<code><a href="https://laravel.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/laravel.png?raw=true"><a/></code>
 
 ### Tools 🪄:
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/29968f11bc89ddf4b1eeee7aa954209c954a71ab/img/github.png?raw=true"></code>
