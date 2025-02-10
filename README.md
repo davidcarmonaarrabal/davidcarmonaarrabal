@@ -30,14 +30,15 @@
 <code><a href="https://laravel.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/laravel.png?raw=true"><a/></code>
 
 ### Tools 🪄:
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/29968f11bc89ddf4b1eeee7aa954209c954a71ab/img/github.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/29968f11bc89ddf4b1eeee7aa954209c954a71ab/img/git.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/vercel.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/sendgrid.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/hostinger.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/gcloud.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/firebase.png?raw=true"></code>
-<code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/68d6ffe3381e11afe3bcd5be0a3aaadef5b2268a/img/neon.png?raw=true"></code>
+<code><a href="https://github.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/29968f11bc89ddf4b1eeee7aa954209c954a71ab/img/github.png?raw=true"><a/></code>
+<code><a href="https://git-scm.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/29968f11bc89ddf4b1eeee7aa954209c954a71ab/img/git.png?raw=true"><a/></code>
+<code><a href="https://vercel.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/3a9955cd50cec31fdb04760e59fa65cc5ea10cc4/img/vercel.png?raw=true"><a/></code>
+<code><a href="https://sendgrid.com/en-us"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/sendgrid.png?raw=true"><a/></code>
+<code><a href="https://www.hostinger.es/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/hostinger.png?raw=true"><a/></code>
+<code><a href="https://cloud.google.com/run?hl=es"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/gcloud.png?raw=true"><a/></code>
+<code><a href="https://firebase.google.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/firebase.png?raw=true"><a/></code>
+<code><a href="https://neon.tech/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/68d6ffe3381e11afe3bcd5be0a3aaadef5b2268a/img/neon.png?raw=true"><a/></code>
+<code><a href="https://tailwindcss.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/4d8830abba2d92bb0d25cb459a614d9296960d94/img/tailwind.png?raw=true"><a/></code>
 
 ## Digital Skills 🎥:
 <code><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/Adobe_Photoshop_CC_icon.svg.png?raw=true"></code>
