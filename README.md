@@ -6,8 +6,8 @@
 📧Contact me: [davidcarmonaarrabal@davidca.es](mailto:davidcarmonaarrabal@davidca.es)
 
 ## My projects: 💻
-<code><a href="https://github.com/davidcarmonaarrabal/JuegoCartasMemoria.git"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/da1ac0f54c81dadcae2270f861c8bc0b1b72148e/img/Jojo_Flecha_3%20(1).png?raw=true"></a></code>
 <code><a href="https://portfolio-nine-blue-68.vercel.app/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/550cebff9e46e2abe9c25cdbcf5ef2f9852bd9ff/img/iconredondo.png?raw=true"></a></code>
+<code><a href="https://github.com/davidcarmonaarrabal/JuegoCartasMemoria.git"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/da1ac0f54c81dadcae2270f861c8bc0b1b72148e/img/Jojo_Flecha_3%20(1).png?raw=true"></a></code>
 
 ## Currently working on: 🔭
 <code><a href="https://github.com/davidcarmonaarrabal/KBFSilversoul"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5a984cda08d01f6f5853f36c2e63ff091fdef182/img/Proyecto%20nuevo%20(1).png?raw=true"></a></code>
