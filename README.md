@@ -40,6 +40,7 @@
 <code><a href="https://firebase.google.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/5e9c012006eaee5877293ada3be7f420008e51cd/img/firebase.png?raw=true"></a></code>
 <code><a href="https://neon.tech/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/68d6ffe3381e11afe3bcd5be0a3aaadef5b2268a/img/neon.png?raw=true"></a></code>
 <code><a href="https://tailwindcss.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/4d8830abba2d92bb0d25cb459a614d9296960d94/img/tailwind.png?raw=true"></a></code>
+<code><a href="https://upstash.com/docs/introduction"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/71ea47abdd32ee00d7a511f4b00a8628a7f8047b/img/apple-touch-icon.png?raw=true"></a></code>
 
 ## Digital Skills 🎥:
 <code><a href="https://www.adobe.com/es/products/photoshop.html"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/Adobe_Photoshop_CC_icon.svg.png?raw=true"></a></code>
