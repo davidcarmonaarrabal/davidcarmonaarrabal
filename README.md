@@ -45,11 +45,14 @@
 <code><a href="https://neon.tech/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/68d6ffe3381e11afe3bcd5be0a3aaadef5b2268a/img/neon.png?raw=true"></a></code>
 <code><a href="https://tailwindcss.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/4d8830abba2d92bb0d25cb459a614d9296960d94/img/tailwind.png?raw=true"></a></code>
 <code><a href="https://upstash.com/docs/introduction"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/71ea47abdd32ee00d7a511f4b00a8628a7f8047b/img/apple-touch-icon.png?raw=true"></a></code>
+<code><a href="https://cloudinary.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/70e5c73119142865add4320a41bde57c6fcbca89/img/channels4_profile.jpg"></a></code>
 
 ## Digital Skills 🎥:
 <code><a href="https://www.adobe.com/es/products/photoshop.html"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/Adobe_Photoshop_CC_icon.svg.png?raw=true"></a></code>
 <code><a href="https://www.adobe.com/es/products/premiere.html"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/premiere.png?raw=true"></a></code>
 <code><a href="https://obsproject.com/es/download"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/OBS_Studio_logo.png?raw=true"></a></code>
+<code><a href="https://www.vmix.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/e7c7b44075dc3c4b1a30f1b1fe930c9e5a7c669d/img/shop.png"></a></code>
+<code><a href="https://www.edius.es/x/892-edius-x-desktop-background-download.html"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/e7c7b44075dc3c4b1a30f1b1fe930c9e5a7c669d/img/vmix-logo-black.png"></a></code>
 
 ## More ➕: 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidcarmonaarrabal&show_icons=true&locale=en&layout=compact" alt="davidcarmonaarrabal"/></p>
