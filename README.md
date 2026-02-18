@@ -13,6 +13,7 @@
 <code><a href="https://github.com/davidcarmonaarrabal/CardPNGMaker"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/b0f2c563fde1559111ee3ecf74d402b78ccc97a9/img/337948.png"></a></code>
 
 ## Currently working on: 🔭
+<code><a href="https://davidca.es/es"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/550cebff9e46e2abe9c25cdbcf5ef2f9852bd9ff/img/iconredondo.png?raw=true"></a></code>
 <code><a href="https://tcg-shop-backend-git-main-davidcarmonaarrabals-projects.vercel.app/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/b4220862a8c699426fe5a2d75b7d97bf06aedb33/img/Logo1.png"></a></code>
 
 ## Currently learning... 🌱
