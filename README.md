@@ -52,6 +52,3 @@
 <code><a href="https://obsproject.com/es/download"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/31219beb414b3b84f3f40e7a6e8ccb21d6f68f90/img/OBS_Studio_logo.png?raw=true"></a></code>
 <code><a href="https://www.vmix.com/"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/e7c7b44075dc3c4b1a30f1b1fe930c9e5a7c669d/img/shop.png"></a></code>
 <code><a href="https://www.edius.es/x/892-edius-x-desktop-background-download.html"><img height="60" src="https://github.com/davidcarmonaarrabal/davidcarmonaarrabal/blob/e7c7b44075dc3c4b1a30f1b1fe930c9e5a7c669d/img/vmix-logo-black.png"></a></code>
-
-## More ➕: 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidcarmonaarrabal&show_icons=true&locale=en&layout=compact" alt="davidcarmonaarrabal"/></p>
